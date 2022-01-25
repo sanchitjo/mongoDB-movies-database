@@ -1,0 +1,130 @@
+[
+    {
+        "batchName": "B25G",
+        "studentName": "Student 1",
+        "rollNumber": 1,
+        "gender": "Male",
+        "course": "MERN",
+        "graduation": "CS Engineer",
+        "skillSet": [
+            "HTML",
+            "CSS",
+            "JS",
+            "DOM"
+        ],
+        "currentTopic" : "mongoDB", 
+        "mentorName" : "Sai Mohan", 
+        "taskCompletion" : [
+            {
+                "topic" : "JS",
+                "completedTasks" : 3
+            },
+            {
+                "topic" : "React",
+                "completedTasks" : 5
+            },
+            {
+                "topic" : "SQL",
+                "completedTasks" : 1
+            },
+            {
+                "topic" : "mongoDB",
+                "completedTasks" : 2
+            },
+            {
+                "topic" : "Nodejs",
+                "completedTasks" : 4
+            }
+        ],
+        "codeKataQuestions" : 20, 
+        "hackerRankRating" : 2,
+        "batchEnds" : "June"
+    },
+
+    {
+        "batchName": "B25WD",
+        "studentName": "Student 2",
+        "rollNumber": 2,
+        "gender": "Female",
+        "course": "MEAN",
+        "graduation": "Mechanical Engineer",
+        "skillSet": [
+            "HTML",
+            "CSS",
+            "JS",
+            "DOM",
+            "SQL",
+            "RestAPI"
+        ],
+        "currentTopic" : "DOM", 
+        "mentorName" : "RV", 
+        "taskCompletion" : [
+            {
+                "topic" : "JS",
+                "completedTasks" : 5
+            },
+            {
+                "topic" : "Angular",
+                "completedTasks" : 2
+            },
+            {
+                "topic" : "SQL",
+                "completedTasks" : 3
+            },
+            {
+                "topic" : "mongoDB",
+                "completedTasks" : 5
+            },
+            {
+                "topic" : "Nodejs",
+                "completedTasks" : 3
+            }
+        ],
+        "codeKataQuestions" : 50, 
+        "hackerRankRating" : 4,
+        "batchEnds" : "October"
+    },
+
+    {
+        "batchName": "B25G",
+        "studentName": "Student 3",
+        "rollNumber": 3,
+        "gender": "Female",
+        "course": "MERN",
+        "graduation": "EEE Engineer",
+        "skillSet": [
+            "HTML",
+            "CSS",
+            "React", 
+            "mongoDB", 
+            "Nodejs"
+        ],
+        "currentTopic" : "Nodejs", 
+        "mentorName" : "RV", 
+        "taskCompletion" : [
+            {
+                "topic" : "JS",
+                "completedTasks" : 3
+            },
+            {
+                "topic" : "React",
+                "completedTasks" : 5
+            },
+            {
+                "topic" : "SQL",
+                "completedTasks" : 2
+            },
+            {
+                "topic" : "mongoDB",
+                "completedTasks" : 3
+            },
+            {
+                "topic" : "Nodejs",
+                "completedTasks" : 5
+            }
+        ],
+        "codeKataQuestions" : 70, 
+        "hackerRankRating" : 5,
+        "batchEnds" : "Feb"
+    }
+]
