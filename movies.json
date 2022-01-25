@@ -1,0 +1,99 @@
+[
+    {
+        "title": "Drishyam",
+        "language": [
+            "Hindi",
+            "Tamil",
+            "Telugu",
+            "Malyalam"
+        ],
+        "reviews": [
+            {
+                "name": "User 1",
+                "review": "Awesome Film",
+                "rating": 5
+            },
+            {
+                "name": "User 2",
+                "review": " Very Nice",
+                "rating": 4.5
+            },
+            {
+                "name": "User 3",
+                "review": "Good",
+                "rating": 3.5
+            }
+        ],
+        "in-cinemas?": true,
+        "genre" : ["thriller","action", "drama"],
+        "media" : [
+            {
+                "type" : "video",
+                "url" : "http://video.com"
+            }
+        ],
+        "artist" : [
+            {
+                "artistName" : "Ajay Devgan",
+                "role" : ["vijay salgaonkar"]
+            },
+            {
+                "artistName" : "Shriya Saran",
+                "role" : ["nandini"]
+            },
+            {
+                "artistName" : "Tabu",
+                "role" : ["IG meera deshmukh"]
+            },
+            {
+                "artistName" : "Yogesh Soman",
+                "role" : ["Inspector"]
+            }
+        ]
+    },
+
+    {
+        "title": "Robot",
+        "language": [
+            "Hindi",
+            "Tamil",
+            "Telugu",
+            "Malyalam"
+        ],
+        "reviews": [
+            {
+                "name": "User 1",
+                "review": "Nice Film",
+                "rating": 4
+            },
+            {
+                "name": "User 2",
+                "review": " Very Nice",
+                "rating": 4.5
+            },
+            {
+                "name": "User 3",
+                "review": "Not good",
+                "rating": 2.5
+            }
+        ],
+        "in-cinemas?": true,
+        "genre" : ["Sci-fi", "action", "drama"],
+        "media" : [
+            {
+                "type" : "image",
+                "url" : "http://image.com"
+            }
+        ],
+        "artist" : [
+            {
+                "artistName" : "Rajanikanth",
+                "role" : ["chitti", "robot", "vasi"]
+            },
+            {
+                "artistName" : "Aishwarya Rai Bachhan",
+                "role" : ["sana"]
+            }
+        ]
+    }
+]
